@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gaius")(type "KiCad")(uri "${KIPRJMOD}/gaius.kicad_sym")(options "")(descr ""))
+)
